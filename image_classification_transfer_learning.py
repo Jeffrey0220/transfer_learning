@@ -1,7 +1,4 @@
-"""
-n11098279, Xuefei, Li
 
-"""
 
 ###import all the necessary libraries for this assignment
 import numpy as np
